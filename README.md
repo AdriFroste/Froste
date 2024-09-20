@@ -6,3 +6,5 @@ Los equipos de esta liga estan divididos en dos conferencias, la del oeste y la 
 # Conferencia oeste
 - [Los Angeles Lakers](https://www.nba.com/lakers/)
 - [Golden State Warriors](https://www.nba.com/warriors/)
+-  [San Antonio Spurs](https://www.nba.com/spurs/)
+-  [Portland Trail Blazers](https://www.nba.com/blazers/)
