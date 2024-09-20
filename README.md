@@ -4,7 +4,7 @@
 Es la liga de basket profesional en los Estados Unidos y es considerada la mejor liga del mundo
 Los equipos de esta liga estan divididos en dos conferencias, la del oeste y la del este
 # Conferencia oeste
-- [Los Angeles Lakers](https://www.nba.com/lakers/) (https://www.teleadhesivo.com/es/img/nba062-jpg/folder/products-listado-merchant/pegatinas-coches-motos-nba---los-angeles-lakers-escudo.jpg)
+- [Los Angeles Lakers](https://www.nba.com/lakers/)(https://www.teleadhesivo.com/es/img/nba062-jpg/folder/products-listado-merchant/pegatinas-coches-motos-nba---los-angeles-lakers-escudo.jpg)
 - [Golden State Warriors](https://www.nba.com/warriors/)
 -  [San Antonio Spurs](https://www.nba.com/spurs/)
 -  [Portland Trail Blazers](https://www.nba.com/blazers/)
