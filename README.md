@@ -8,7 +8,7 @@ Los equipos de esta liga estan divididos en dos conferencias, la del oeste y la 
 - [Golden State Warriors](https://www.nba.com/warriors/) <img src="curry.jpg" alt="" width="50" height="50" />
 -  [San Antonio Spurs](https://www.nba.com/spurs/) <img src="duncan.png" alt="" width="50" height="50" />
 -  [Portland Trail Blazers](https://www.nba.com/blazers/) <img src="portland.jpg" alt="" width="50" height="50" />
--  [Minnesota Timberwolves](https://www.nba.com/timberwolves/)
+-  [Minnesota Timberwolves](https://www.nba.com/timberwolves/) <img src="wolfs.jpg" alt="" width="50" height="50" />
 -  [Utah Jazz](https://www.nba.com/jazz/)
 -  [Phoenix Suns](https://www.nba.com/suns/)
 -  [Dallas Mavericks](https://www.nba.com/team/1610612742/mavericks)
