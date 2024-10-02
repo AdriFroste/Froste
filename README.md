@@ -38,7 +38,7 @@ El maximo ganador de la NBA son los Boston Celtics habiendo ganado recientemente
 <img src="champions.png" alt="" width="1920" height="1080" />
 ## Jugadores mas importantes
 - Stephen Curry (Golden State Warriors) <img src="base.png" alt="" width="100" height="80" />
-- Magic Jonhson (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
+- Magic Jonhson (Los Angeles Lakers) <img src="magic.png" alt="" width="100" height="80" />
 - Tim Duncan (San Antonio Spurs) <img src="detroit.png" alt="" width="50" height="50" />
 - Michael Jordan (Chicago Bulls) <img src="detroit.png" alt="" width="50" height="50" />
 - Pau Gasol (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
