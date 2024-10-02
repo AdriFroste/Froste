@@ -45,5 +45,5 @@ El maximo ganador de la NBA son los Boston Celtics habiendo ganado recientemente
 - Derrick Rose (Chicago Bulls) <img src="detroit.png" alt="" width="50" height="50" />
 - Shaquille O'Neal (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
 - Larry Bird (Boston Celtics) <img src="detroit.png" alt="" width="50" height="50" />
-- Marc Gasol (Memphis Grizzlies) <img src="marc.png" alt="" width="50" height="50" />
+- Marc Gasol (Memphis Grizzlies) <img src="marc.png" alt="" width="100" height="100" />
 - Kobe Bryant (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
