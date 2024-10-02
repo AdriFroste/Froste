@@ -37,10 +37,13 @@ Los equipos de esta liga estan divididos en dos conferencias, la del oeste y la 
 El maximo ganador de la NBA son los Boston Celtics habiendo ganado recientemente el 18 campeonato de NBA, la imagen puesta a continuacion no esta actualizada.
 <img src="champions.png" alt="" width="1920" height="1080" />
 ## Jugadores mas importantes
-- Stephen Curry (Golden State Warriors)
-- Magic Jonhson (Los Angeles Lakers)
-- Tim Duncan (San Antonio Spurs)
-- Michael Jordan (Chicago Bulls)
-- Pau Gasol (Los Angeles Lakers)
-- Marc Gasol (Memphis Grizzlies)
-- Kobe Bryant (Los Angeles Lakers)
+- Stephen Curry (Golden State Warriors) <img src="detroit.png" alt="" width="50" height="50" />
+- Magic Jonhson (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
+- Tim Duncan (San Antonio Spurs) <img src="detroit.png" alt="" width="50" height="50" />
+- Michael Jordan (Chicago Bulls) <img src="detroit.png" alt="" width="50" height="50" />
+- Pau Gasol (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
+- Derrick Rose (Chicago Bulls) <img src="detroit.png" alt="" width="50" height="50" />
+- Shaquille O'Neal (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
+- Larry Bird (Boston Celtics) <img src="detroit.png" alt="" width="50" height="50" />
+- Marc Gasol (Memphis Grizzlies) <img src="detroit.png" alt="" width="50" height="50" />
+- Kobe Bryant (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
