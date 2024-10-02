@@ -37,7 +37,7 @@ Los equipos de esta liga estan divididos en dos conferencias, la del oeste y la 
 El maximo ganador de la NBA son los Boston Celtics habiendo ganado recientemente el 18 campeonato de NBA, la imagen puesta a continuacion no esta actualizada.
 <img src="champions.png" alt="" width="1920" height="1080" />
 ## Jugadores mas importantes
-- Stephen Curry (Golden State Warriors) <img src="detroit.png" alt="" width="50" height="50" />
+- Stephen Curry (Golden State Warriors) <img src="stephen.png" alt="" width="100" height="80" />
 - Magic Jonhson (Los Angeles Lakers) <img src="detroit.png" alt="" width="50" height="50" />
 - Tim Duncan (San Antonio Spurs) <img src="detroit.png" alt="" width="50" height="50" />
 - Michael Jordan (Chicago Bulls) <img src="detroit.png" alt="" width="50" height="50" />
