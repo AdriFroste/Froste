@@ -18,19 +18,19 @@ Los equipos de esta liga estan divididos en dos conferencias, la del oeste y la 
 -  [Oklahoma City Thunder](https://www.nba.com/thunder/) <img src="thunder.png" alt="" width="50" height="50" />
 -  [Sacramento Kings](https://www.nba.com/kings/) <img src="kings.png" alt="" width="50" height="50" />
 # Conferencia este
-- [Boston Celtics](https://www.nba.com/celtics/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Brooklyn Nets](https://www.nba.com/nets/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [New York Knicks](https://www.nba.com/knicks/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Philadelphia 76ers](https://www.nba.com/sixers/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Toronto Raptors](https://www.nba.com/raptors/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Chicago Bulls](https://www.nba.com/bulls/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Cleverand Cavaliers](https://www.nba.com/cavaliers/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Detroit Pistons](https://www.nba.com/pistons/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Indiana Pacers](https://www.nba.com/pacers/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Milwaukee Bucks](https://www.nba.com/bucks/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Atlanta Hawks](https://www.nba.com/hawks/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Charlotte Hornets](https://www.nba.com/hornets/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Miami Heat](https://www.nba.com/heat/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Orlando Magic](https://www.nba.com/magic/) <img src="wolfs.jpg" alt="" width="50" height="50" />
-- [Whasington Wizards](https://www.nba.com/wizards/) <img src="wolfs.jpg" alt="" width="50" height="50" />
+- [Boston Celtics](https://www.nba.com/celtics/) <img src="boston.png" alt="" width="50" height="50" />
+- [Brooklyn Nets](https://www.nba.com/nets/) <img src="brooklyn.png" alt="" width="50" height="50" />
+- [New York Knicks](https://www.nba.com/knicks/) <img src="newyork.png" alt="" width="50" height="50" />
+- [Philadelphia 76ers](https://www.nba.com/sixers/) <img src="philadelphia.png" alt="" width="50" height="50" />
+- [Toronto Raptors](https://www.nba.com/raptors/) <img src="toronto.png" alt="" width="50" height="50" />
+- [Chicago Bulls](https://www.nba.com/bulls/) <img src="chicago.png" alt="" width="50" height="50" />
+- [Cleverand Cavaliers](https://www.nba.com/cavaliers/) <img src="cleveland.png" alt="" width="50" height="50" />
+- [Detroit Pistons](https://www.nba.com/pistons/) <img src="detroit.png" alt="" width="50" height="50" />
+- [Indiana Pacers](https://www.nba.com/pacers/) <img src="indiana.png" alt="" width="50" height="50" />
+- [Milwaukee Bucks](https://www.nba.com/bucks/) <img src="milwaukee.png" alt="" width="50" height="50" />
+- [Atlanta Hawks](https://www.nba.com/hawks/) <img src="atlanta.png" alt="" width="50" height="50" />
+- [Charlotte Hornets](https://www.nba.com/hornets/) <img src="charlotte.png" alt="" width="50" height="50" />
+- [Miami Heat](https://www.nba.com/heat/) <img src="miami.png" alt="" width="50" height="50" />
+- [Orlando Magic](https://www.nba.com/magic/) <img src="orlando.png" alt="" width="50" height="50" />
+- [Whasington Wizards](https://www.nba.com/wizards/) <img src="whasington.png" alt="" width="50" height="50" />
 
