@@ -33,4 +33,6 @@ Los equipos de esta liga estan divididos en dos conferencias, la del oeste y la 
 - [Miami Heat](https://www.nba.com/heat/) <img src="miami.png" alt="" width="50" height="50" />
 - [Orlando Magic](https://www.nba.com/magic/) <img src="orlando.png" alt="" width="50" height="50" />
 - [Whasington Wizards](https://www.nba.com/wizards/) <img src="whasington.png" alt="" width="50" height="50" />
-
+# Trofeos
+El maximo ganador de la NBA son los Boston Celtics habiendo ganado recientemente el 18 campeonato de NBA, la imagen puesta a continuacion no esta actualizada.
+<img src="champions.png" alt="" width="1920" height="1080" />
