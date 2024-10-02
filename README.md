@@ -12,11 +12,11 @@ Los equipos de esta liga estan divididos en dos conferencias, la del oeste y la 
 -  [Dallas Mavericks](https://www.nba.com/team/1610612742/mavericks) <img src="dallas.png" alt="" width="50" height="50" />
 -  [Denver Nuggets](https://www.nba.com/nuggets/) <img src="nuggets.png" alt="" width="50" height="50" />
 -  [Houston Rockets](https://www.nba.com/rockets/) <img src="wolfs.jpg" alt="" width="50" height="50" />
--  [Memphis Grizzlies](https://www.nba.com/grizzlies/) <img src="wolfs.jpg" alt="" width="50" height="50" />
--  [Los Angeles Clippers](https://www.nba.com/clippers/) <img src="wolfs.jpg" alt="" width="50" height="50" />
--  [New Orleans Pelicans](https://www.nba.com/pelicans/) <img src="wolfs.jpg" alt="" width="50" height="50" />
--  [Oklahoma City Thunder](https://www.nba.com/thunder/) <img src="wolfs.jpg" alt="" width="50" height="50" />
--  [Sacramento Kings](https://www.nba.com/kings/) <img src="wolfs.jpg" alt="" width="50" height="50" />
+-  [Memphis Grizzlies](https://www.nba.com/grizzlies/) <img src="grizzlies.png" alt="" width="50" height="50" />
+-  [Los Angeles Clippers](https://www.nba.com/clippers/) <img src="clippers.png" alt="" width="50" height="50" />
+-  [New Orleans Pelicans](https://www.nba.com/pelicans/) <img src="pelicans.png" alt="" width="50" height="50" />
+-  [Oklahoma City Thunder](https://www.nba.com/thunder/) <img src="thunder.png" alt="" width="50" height="50" />
+-  [Sacramento Kings](https://www.nba.com/kings/) <img src="kings.png" alt="" width="50" height="50" />
 # Conferencia este
 - [Boston Celtics](https://www.nba.com/celtics/) <img src="wolfs.jpg" alt="" width="50" height="50" />
 - [Brooklyn Nets](https://www.nba.com/nets/) <img src="wolfs.jpg" alt="" width="50" height="50" />
