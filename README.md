@@ -48,3 +48,4 @@ El maximo ganador de la NBA son los Boston Celtics habiendo ganado recientemente
 - Marc Gasol (Memphis Grizzlies) <img src="marc.png" alt="" width="100" height="80" />
 - Kobe Bryant (Los Angeles Lakers) <img src="kobe.png" alt="" width="100" height="80" />
 - LeBron James (Cleveland Cavaliers) <img src="lebron.png" alt="" width="100" height="80" />
+- Allen Iverson (Philadelphia 76ers) <img src="iverson.png" alt="" width="100" height="80" />
